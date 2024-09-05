@@ -1,5 +1,7 @@
 # Keyboard Randomizer
 
+![GIF of the keyboard randomizer in action](image.gif)
+
 ## Overview
 
 A simple Python script that randomly sends mouse and keyboard inputs as you interact with your computer.
